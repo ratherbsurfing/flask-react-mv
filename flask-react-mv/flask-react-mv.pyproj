@@ -34,6 +34,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="flask_react_mv\" />
+    <Folder Include="flask_react_mv\site\" />
     <Folder Include="flask_react_mv\static\" />
     <Folder Include="flask_react_mv\static\content\" />
     <Folder Include="flask_react_mv\static\fonts\" />
